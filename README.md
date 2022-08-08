@@ -1,5 +1,6 @@
 <body bgcolor="blue">
-<img src="https://user-images.githubusercontent.com/109272757/183494066-408641dc-b8c3-4d84-90d5-53a01ecbced7.jpg" align="center" />
+![04](https://user-images.githubusercontent.com/109272757/183498161-583b2583-38ab-48bd-9a42-fbb88bda4546.png)
+
 Steve Jobs :
 Be brave 😁 and follow the intuition and the voice inside❤. They are already well aware of who you really want to become✌. 
 
