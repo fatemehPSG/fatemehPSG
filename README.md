@@ -1,6 +1,14 @@
 
 <img src="https://user-images.githubusercontent.com/109272757/183494066-408641dc-b8c3-4d84-90d5-53a01ecbced7.jpg" align="center" />
+Steve Jobs :
+Be brave 😁 and follow the intuition and the voice inside❤. They are already well aware of who you really want to become✌. 
 
+Have you ever said to yourself: I wanted to do that with my time🤨, but…? Overcome this, however, fears and obstacles. Be brave to follow the call within yourself😎.
+
+![1_-hsULYUNVpmqEwWPdEvOZA](https://user-images.githubusercontent.com/109272757/183496681-aa8beb7c-4965-4a5e-9e6c-8437cbb6a24c.gif)
+i am a programmer :)
+i love my job 
+i have no life
 <!--
 **fatemehPSG/fatemehPSG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
