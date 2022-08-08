@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 
 
-&theme=dracula
+&theme=dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
