@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 <a href="https://github.com/fatemehPSG">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=fatemehPSG&show_icons=true&count_private=true&include_all_commits=true" /></a>
+<a href="https://github.com/fatemehPSG">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatemehPSG" />
+</a>
+
+
+&theme=synthwave
