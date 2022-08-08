@@ -1,4 +1,4 @@
-
+<body bgcolor="blue">
 <img src="https://user-images.githubusercontent.com/109272757/183494066-408641dc-b8c3-4d84-90d5-53a01ecbced7.jpg" align="center" />
 Steve Jobs :
 Be brave 😁 and follow the intuition and the voice inside❤. They are already well aware of who you really want to become✌. 
@@ -27,3 +27,4 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=fatemehPSG&show_icons=true&count_private=true&include_all_commits=true" /></a>
 
 
+</body>
