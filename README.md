@@ -20,3 +20,8 @@ I also worked with Photoshop and learned it very well👩, and now I'm going to 
 John Johnson:
 
 Solve the problem first, then code.
+
+
+<img align="right" width="410" src="https://github-readme-stats.vercel.app/api?username=J-IOProgrammer&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="J-IOProgrammer GitHub Stats">
+<img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=J-IOProgrammer&count_private=true&theme=radical" alt="J-IOProgrammer" />
+<img width="1000" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-IOProgrammer&layout=compact&theme=radical" alt="J-IOProgrammer" />
