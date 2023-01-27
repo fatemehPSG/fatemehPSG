@@ -1,8 +1,11 @@
-<h2> 🚀 &nbsp;Hello</h2>
+<h2> <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> &nbsp;Hello</h2>
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
+<h2> 👩‍ &nbsp;I am IO_Programmer<br/></h2>
 
 ![1_-hsULYUNVpmqEwWPdEvOZA](https://user-images.githubusercontent.com/109272757/183892235-15c4ed73-e840-404c-95f9-cf9f00c31c86.gif)
 
-<h2> 👩‍ &nbsp;I am IO_Programmer<br/></h2>
 I am very interested in learning🤩, programming👩‍💻, technology and astronomy. I remember saying, I also love math👩‍🏫, physics🙋‍♀️, chemistry👩‍🔬 and other sciences. In general, I can say that I love everything😍. In the meantime, I decided to become a senior Java😎 and then look for other interests.
 
 ![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3634302f312a6c684f617833635a4154475a774568473075545952412e676966](https://user-images.githubusercontent.com/109272757/195141489-3a85a9df-cf97-4504-af69-25e3dd307df6.gif)
