@@ -1,6 +1,6 @@
 <h2> <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> &nbsp;Hello</h2>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/J-IOProgrammer/J-IOProgrammer/blob/output/github-contribution-grid-snake.svg)
 
 <h2> 👩‍ &nbsp;I am IO_Programmer<br/></h2>
 
