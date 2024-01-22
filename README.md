@@ -1,6 +1,8 @@
 <h2> <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> &nbsp;Hello</h2>
 
-![Snake animation](https://github.com/J-IOProgrammer/J-IOProgrammer/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/J-IOProgrammer/J-IOProgrammer/blob/output/github-contribution-grid-snake.svg) -->
+![6AIJtr5](https://github.com/J-IOProgrammer/J-IOProgrammer/assets/109272757/164de9ab-669f-48c3-a5fc-c0acc0e67f44)
+
 
 <h2> 👩‍ &nbsp;I am IO_Programmer<br/></h2>
 
@@ -23,6 +25,9 @@ I also worked with Photoshop and learned it very well👩, and now I'm going to 
 <h2> 🏁 &nbsp;John Johnson:</h2>
 
 Solve the problem first, then code.
+
+![235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf](https://github.com/J-IOProgrammer/J-IOProgrammer/assets/109272757/1908176f-75ea-44e0-9e57-5f7a1559a5dc)
+
 
 <h2> 📈 &nbsp;my github stats</h2>
 
