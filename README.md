@@ -12,13 +12,13 @@ I am very interested in learning🤩, programming👩‍💻, technology and ast
 
 ![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3634302f312a6c684f617833635a4154475a774568473075545952412e676966](https://user-images.githubusercontent.com/109272757/195141489-3a85a9df-cf97-4504-af69-25e3dd307df6.gif)
 
-Of course, I also love learning other programming languages. While I'm learning Java, I'm also learning Python🐍. I think learning Java and Python together is a very fun and enjoyable experience👌.
+Of course, I also love learning other programming languages. While I'm learning Java, I'm also learning PHP🐘. I think learning Java and PHP together is a very fun experience👌.
 
-![giphy (1)](https://user-images.githubusercontent.com/109272757/195142623-71f72b91-9d1c-4efe-ab20-e2a0a9491244.gif)
+<img src="https://media.licdn.com/dms/image/D5612AQEVa_ELRqrfKA/article-cover_image-shrink_600_2000/0/1671174347801?e=2147483647&v=beta&t=NlaygzDUTg4Ek4ri-bCJHMz3kBkMdmC2F0tYik3QyMI">
 
 I also think about designing the site🌏, so I finished the HTML period and now I want to learn CSS and the rest of it🏁.
 
-![psd-html](https://user-images.githubusercontent.com/109272757/183893347-63824477-3970-4d61-8a73-1bef579af8a2.jpg)
+<img src="https://www.ambientinfotech.com/wp-content/uploads/2023/01/htmlcssjs.gif">
 
 I also worked with Photoshop and learned it very well👩, and now I'm going to learn Illustrator so that I can design whatever design I like for my site🎉.
 
